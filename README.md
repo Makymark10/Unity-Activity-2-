@@ -11,7 +11,7 @@ I adapt quickly to new technologies and thrive on collaboration, building user-f
 
 ---
 
-### e-portfolio
+### E-portfolio
 https://markjoero-portfolio.vercel.app/
 
 ## 🛠️ Skills & Tech Stack
@@ -70,3 +70,4 @@ https://markjoero-portfolio.vercel.app/
 
 
 ✨ *Always learning. Always building. Always improving.*
+
