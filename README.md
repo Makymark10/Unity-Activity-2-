@@ -1,4 +1,5 @@
-# 🌐 Mark Joero — Aspiring Fullstack Developer
+# 🌐 Mark Joero J. Flores — Aspiring Fullstack Developer
+BSIT WMT 3-1
 
 **Crafting digital experiences with clean code and creative design.**  
 Based in Pangasinan, Philippines, I specialize in modern web technologies and user-centric solutions.
@@ -70,4 +71,5 @@ https://markjoero-portfolio.vercel.app/
 
 
 ✨ *Always learning. Always building. Always improving.*
+
 
